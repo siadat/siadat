@@ -12,7 +12,6 @@
 <a href="http://siadat.github.io/projects"><img src="https://i.imgur.com/Yd0PQjhs.png"></a>
 <a href="http://siadat.github.io/projects"><img src="https://i.imgur.com/aH9DNnus.png"></a>
 <a href="http://siadat.github.io/projects"><img src="https://i.imgur.com/xCZvnJys.png"></a>
-<a href="http://siadat.github.io/projects"><img src="https://i.imgur.com/i5ITDBas.png"></a>
 <a href="http://siadat.github.io/projects"><img src="https://i.imgur.com/D9T3Bo7s.png"></a>
 <a href="http://siadat.github.io/projects"><img src="https://i.imgur.com/03uyuwas.png"></a>
 <a href="http://siadat.github.io/projects"><img src="https://i.imgur.com/CGryZLWs.png"></a>
