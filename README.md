@@ -1,6 +1,6 @@
-- 💬  Ask me about: Go, OCaml, Javascript
-- 📫  How to reach me: email
-- 🌱  Fun fact: I am learning French
+- 💬  Ask me about: Go, OCaml, TypeScript.
+- 📫  How to reach me: email.
+- 🌱  Fun fact: I'm learning French. I'm a logophile.
 
 <a href="http://siadat.github.io/projects"><img src="https://i.imgur.com/E6SPSNUs.png"></a>
 <a href="http://siadat.github.io/projects"><img src="https://i.imgur.com/mbQbFcTs.png"></a>
