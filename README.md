@@ -1,4 +1,4 @@
-- 💬  Ask me about: Go, OCaml, TypeScript.
+- 💬  Talk to me about: Go, Haskell, OCaml, TypeScript.
 - 📫  How to reach me: email.
 - 🌱  Fun fact: I'm learning French. I'm a logophile.
 
