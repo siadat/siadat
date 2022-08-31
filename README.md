@@ -1,6 +1,6 @@
-- 💬  Talk to me about: Go, Haskell, OCaml, TypeScript.
-- 📫  How to reach me: email.
+- 💬  Talk to me about: Go, Haskell, OCaml, TypeScript, Cassandra, Elasticsearch.
 - 🌱  Fun fact: I'm learning French. I'm a logophile.
+- 📫  How to reach me: email.
 
 <a href="http://siadat.github.io/projects"><img src="https://i.imgur.com/E6SPSNUs.png"></a>
 <a href="http://siadat.github.io/projects"><img src="https://i.imgur.com/mbQbFcTs.png"></a>
