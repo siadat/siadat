@@ -1,4 +1,4 @@
-- 💬  Talk to me about: Go, Haskell, OCaml, TypeScript, Cassandra, Python.
+- 💬  Talk to me about: Zig, NeoVim, Lua, Go, Haskell, OCaml, TypeScript, Cassandra, Python.
 - ✍️ Blog: [siadat.github.io/blog](https://siadat.github.io/blog/index.html).
 - 📫  How to reach me: email.
 
