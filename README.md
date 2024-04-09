@@ -1,7 +1,7 @@
-- 💬 Talk to me about: Zig, Neovim, and Cassandra.
-- ✍️ Blog: [siadat.github.io/blog](https://siadat.github.io/blog/index.html).
+- 💬 Talk to me about: Zig, Neovim, Cassandra
+- ✍️ Blog: [siadat.github.io/blog](https://siadat.github.io/blog/index.html)
 - 👨🏻‍💻 Projects: [siadat.github.io/projects](https://siadat.github.io/projects)
-- 📫 How to reach me: email.
+- 📫 How to reach me: email
 
 <a href="http://siadat.github.io/projects"><img src="https://i.imgur.com/E6SPSNUs.png"></a>
 <a href="http://siadat.github.io/projects"><img src="https://i.imgur.com/mbQbFcTs.png"></a>
